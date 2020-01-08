@@ -1,6 +1,6 @@
 # Python Code Snippet for Lecroy WaveSurfer 24MXs (VXI-11 Ethernet)
 
-This **Python**P class remote controls the **PLecroy WaveSurfer 24MXs** over ethernet:
+This **Python** class remote controls the **PLecroy WaveSurfer 24MXs** over ethernet:
 * connect to the device
 * set up the channels
 * control the trigger
