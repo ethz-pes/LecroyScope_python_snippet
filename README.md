@@ -18,7 +18,7 @@ Be careful, the Lecroy instruction are messy and incoherent between the scope mo
 
 ## Author
 
-**Thomas Guillod** * [GitHub Profile](https://github.com/otvam)
+**Thomas Guillod** - [GitHub Profile](https://github.com/otvam)
 
 ## License
 
