@@ -1,3 +1,5 @@
+# (c) 2020, ETH Zurich, Power Electronic Systems Laboratory, T. Guillod
+
 import vxi11
 import numpy
 
