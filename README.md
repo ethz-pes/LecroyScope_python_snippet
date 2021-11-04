@@ -1,5 +1,10 @@
 # Python Code for Lecroy WaveSurfer 24MXs (Ethernet)
 
+![license - BSD](https://img.shields.io/badge/license-BSD-green)
+![language - python](https://img.shields.io/badge/language-python-blue)
+![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
+![status - unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
 This **Python** class remote controls the **Lecroy WaveSurfer 24MXs** over ethernet:
 * connect to the device
 * set up the channels
