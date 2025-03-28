@@ -21,8 +21,6 @@ This class:
 This class is meant as a lightweight code to be used as a "code snippet" and not as a full package.
 Be careful, the Lecroy instruction are messy and incoherent between the scope models.
 
-This tool is developed by the **Power Electronic Systems Laboratory at ETH Zurich** and is available under the **BSD License**. The code is also available on the ETH Data Archive.
-
 ## Author
 
 * **Thomas Guillod, ETH Zurich, Power Electronic Systems Laboratory** - [GitHub Profile](https://github.com/otvam)
